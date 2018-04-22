@@ -1,0 +1,19 @@
+{
+  "name": "Youtube-Video-Upload",
+  "version": "1.0.0",
+  "description": "\"Uploading videos to youtube channel\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "https://github.com/sesn/Youtube-Video-Upload.git",
+  "author": "sesn <sesankar11@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
